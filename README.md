@@ -25,7 +25,6 @@ The combined model achieves:
 This repository provides all necessary scripts to reproduce the results used in the corresponding research publication.
 
 ---
----
 ## 📂 Repository Structure
 project/
 │── README.md
@@ -48,4 +47,4 @@ project/
 │   └── class9_windows.npz
 │
 └── .idea/ # IDE configuration 
----
+
