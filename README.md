@@ -2,7 +2,7 @@
 Implementation of the CNN + LSTM + Attention deep learning model for human posture classification using eight-channel pressure sensor signals.
 # DeepPostureRecognition: CNN + LSTM + Attention Model for Human Posture Classification
 
-This repository contains the official implementation of the **CNN + LSTM + Attention** deep learning model used to classify human postures based on **eight-channel pressure sensor time-series signals**.  
+This repository contains the implementation of the **CNN + LSTM + Attention** deep learning model used to classify human postures based on **eight-channel pressure sensor time-series signals**.  
 The model is designed for high-precision recognition of actions such as walking, running, stair ascent, stair descent, standing, sitting, and other dynamic postures.
 
 ---
