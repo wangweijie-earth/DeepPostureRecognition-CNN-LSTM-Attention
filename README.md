@@ -25,7 +25,7 @@ The combined model achieves:
 This repository provides all necessary scripts to reproduce the results used in the corresponding research publication.
 
 ---
-
+---
 ## 📂 Repository Structure
 project/
 │── README.md
@@ -34,17 +34,18 @@ project/
 │── data_preprocess.py # Data preprocessing script
 │
 ├── data/ # Preprocessed dataset files (NPZ format)
-│ ├── all_splits.npz
-│ ├── all_windows.npz
-│ ├── class0_windows.npz
-│ ├── class1_windows.npz
-│ ├── class2_windows.npz
-│ ├── class3_windows.npz
-│ ├── class4_windows.npz
-│ ├── class5_windows.npz
-│ ├── class6_windows.npz
-│ ├── class7_windows.npz
-│ ├── class8_windows.npz
-│ └── class9_windows.npz
+│   ├── all_splits.npz
+│   ├── all_windows.npz
+│   ├── class0_windows.npz
+│   ├── class1_windows.npz
+│   ├── class2_windows.npz
+│   ├── class3_windows.npz
+│   ├── class4_windows.npz
+│   ├── class5_windows.npz
+│   ├── class6_windows.npz
+│   ├── class7_windows.npz
+│   ├── class8_windows.npz
+│   └── class9_windows.npz
 │
 └── .idea/ # IDE configuration 
+---
